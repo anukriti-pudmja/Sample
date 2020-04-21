@@ -1,0 +1,15 @@
+body {
+    overflow-y: scroll;
+}
+
+body::-webkit-scrollbar {
+    display: none;
+}
+
+#footer {
+    background-image: url('C:\xampp\htdocs\Techxtreme\images\footer-bg.png');
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position-y: bottom;
+    background-attachment: fixed;
+}
